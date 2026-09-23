@@ -35,7 +35,7 @@ spanning financial analytics, reporting, and operational compliance-adjacent wor
 - Summer Intern, Zepfly Studio — Tracked outreach performance against
   targets and reported metrics regularly.
 
- Personal Investing
+Personal Investing
  Actively manage a personal equity portfolio (via Nirmal Bang), applying
  coursework in security analysis and portfolio management to real market
  decisions across sectors including FMCG, financial services, and metals/mining.
