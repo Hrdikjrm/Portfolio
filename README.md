@@ -38,7 +38,17 @@ spanning financial analytics, reporting, and operational compliance-adjacent wor
  Personal Investing
 Actively manage a personal equity portfolio (via Nirmal Bang), applying
 coursework in security analysis and portfolio management to real market
-decisions — sector selection, position sizing, and ongoing portfolio review.
+decisions across sectors including FMCG, financial services, and metals/mining.
+
+Current holdings span:
+- FMCG: Nestle India
+- Financial Services: SBI Cards
+- Metals & Mining: Vedanta Ltd, Vedanta Power, Hindustan Zinc (Vedanta Group)
+- IT Services: Wipro
+
+Focus areas: sector diversification, fundamental analysis, and long-term
+position tracking as an extension of academic coursework in Security
+Analysis and Portfolio Management.
 
  Contact
 - Email: hardikjain2727@gmail.com
