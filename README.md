@@ -36,9 +36,9 @@ spanning financial analytics, reporting, and operational compliance-adjacent wor
   targets and reported metrics regularly.
 
  Personal Investing
-Actively manage a personal equity portfolio (via Nirmal Bang), applying
-coursework in security analysis and portfolio management to real market
-decisions across sectors including FMCG, financial services, and metals/mining.
+ Actively manage a personal equity portfolio (via Nirmal Bang), applying
+ coursework in security analysis and portfolio management to real market
+ decisions across sectors including FMCG, financial services, and metals/mining.
 
 Current holdings span:
 - FMCG: Nestle India
